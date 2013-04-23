@@ -1,5 +1,5 @@
 {
-    "name": "madmatt/silverstripe-comments-notifications",
+    "name": "tractorcow/silverstripe-comments-notifications",
     "description": "Simple email notifications for comments posted against the Comments module (fork of tractorcow's excellent module, but can be installed on SS3.0 and up)",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "comments"],
